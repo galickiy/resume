@@ -1,0 +1,6 @@
+
+#Будет удалено .gitignore
+#Будет удалено .idea/modules.xml
+#Будет удалено .idea/resume.loc.iml
+#Будет удалено .idea/workspace.xml
+.idea/
